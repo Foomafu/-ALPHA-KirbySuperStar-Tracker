@@ -9,7 +9,7 @@ I will probably not maintain this tracker, but if you would like to, feel free.
 
 Release Notes:
 
-~V 0.0.2~
+--V 0.0.2--
 
 - Added treasureacquired objects overlaying the lower-right corner of every item in the Great Cave Offensive item grid. The intention
   is for this to be used to track the actual checks in The Great Cave Offensive subgames. E.g. when you collect the first treasure the
